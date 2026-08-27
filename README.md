@@ -10,7 +10,7 @@ Sou um ,Desenvolvedor Front-end / Estudante de analise e desenvolvimento de sist
 
 ### 🛠️ Linguagens e Ferramentas
 
-*  **Front-end:** HTML, CSS, JavaScript
+*  **Front-end:** HTML, CSS
 
 *  **Back-end:** Python
 
