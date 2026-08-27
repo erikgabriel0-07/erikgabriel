@@ -4,7 +4,7 @@
 
 ### 👨‍💻 Quem sou eu
 
-Sou um ,Desenvolvedor Front-end / Estudante de analise e desenvolvimento de sistema apaixonado por criar soluções inovadoras e resolver problemas complexos. Atualmente, estou focado em aprimorar minhas habilidades em progamaçao, e sempre em busca de novos desafios!
+Sou um , Estudante de analise e desenvolvimento de sistema apaixonado por criar soluções inovadoras e resolver problemas complexos. Atualmente, estou focado em aprimorar minhas habilidades em progamaçao, e sempre em busca de novos desafios!
 
 
 
