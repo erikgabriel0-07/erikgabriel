@@ -1,4 +1,4 @@
-# # Olá! Eu sou [erik gabriel] 👋
+# # Olá! Eu sou Erik Gabriel 👋
 
 
 
@@ -19,24 +19,15 @@ Sou um ,Desenvolvedor Front-end / Estudante de analise e desenvolvimento de sist
 *  **Outros:** Git
 
 
-
-### 🚀 Projetos em Destaque
-
-*  [Nome do Projeto 1](link) - Breve descrição do que foi feito e tecnologias usadas.
-
-*  [Nome do Projeto 2](link) - Breve descrição do que foi feito e tecnologias usadas.
-
-
-
 ### 📫 Como me encontrar
+[![E-mail](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seuemail@email.com)](erik.alves007.faculdade@gmail.com)
 
-[![E-mail] (erik.alves007.faculdade@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/seuperfil)](https://www.linkedin.com/in/erikgabriell/)
 
-[![LinkedIn](www.linkedin.com/in/erikgabriell)
+[![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white&link=https://wa.me/seunumerodecelular)](https://wa.me/11960178878)
 
-[![WhatsApp]()
+[![Dev.to](https://img.shields.io/badge/-Dev.to-0A0A0A?style=flat-square&logo=dev.to&logoColor=white&link=https://dev.to/seuperfil)](https://dev.to/erik_gabriel_)
 
-[![Dev.to](https://dev.to/erik_gabriel_l)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/seuperfil)](https://instagram.com/erik.zin7)
 
-[![Instagram](https://www.instagram.com/erik.zin7)
 
